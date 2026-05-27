@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyeave",
+        "uuid": 14975268,
+        "checksum": "29gbdh"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "production"
+    }
+}
